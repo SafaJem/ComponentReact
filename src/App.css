@@ -1,0 +1,21 @@
+.image{
+    width: 300;
+    height: 300px;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+}
+.Profil {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color:rgb(105, 144, 172);
+    border: 3px solid gray; 
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: black;
+    font-family: Helvetica neue, roboto;
+    font-weight: normal;
+  }
